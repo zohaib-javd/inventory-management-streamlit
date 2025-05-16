@@ -21,7 +21,7 @@ An interactive **Inventory Management System** built using **Python** and **Stre
 ## 🎥 Live Demo
 
 **▶️ Live Demo:**  
-[👉 _Live App Link Coming Soon_ 👈]
+[👉 [Live App Link](https://ims-zeejay.streamlit.app/) 👈]
 
 ---
 
