@@ -1,0 +1,262 @@
+[
+  {
+    "type": "Electronics",
+    "product_id": "E001",
+    "name": "Smartphone",
+    "price": 29999.0,
+    "quantity": 10,
+    "warranty_years": 1,
+    "brand": "BrandX"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E002",
+    "name": "Laptop",
+    "price": 89999.0,
+    "quantity": 5,
+    "warranty_years": 2,
+    "brand": "TechPro"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E003",
+    "name": "Wireless Earbuds",
+    "price": 4999.0,
+    "quantity": 25,
+    "warranty_years": 1,
+    "brand": "SoundMax"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E004",
+    "name": "Smartwatch",
+    "price": 10999.0,
+    "quantity": 15,
+    "warranty_years": 1,
+    "brand": "WristTech"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E005",
+    "name": "Bluetooth Speaker",
+    "price": 2999.0,
+    "quantity": 30,
+    "warranty_years": 1,
+    "brand": "BeatsPlus"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E006",
+    "name": "4K LED TV",
+    "price": 54999.0,
+    "quantity": 8,
+    "warranty_years": 3,
+    "brand": "ViewClear"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E007",
+    "name": "Gaming Console",
+    "price": 39999.0,
+    "quantity": 12,
+    "warranty_years": 2,
+    "brand": "GameStation"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E008",
+    "name": "Digital Camera",
+    "price": 25999.0,
+    "quantity": 7,
+    "warranty_years": 2,
+    "brand": "PhotoPro"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E009",
+    "name": "External Hard Drive",
+    "price": 7499.0,
+    "quantity": 20,
+    "warranty_years": 1,
+    "brand": "StorEase"
+  },
+  {
+    "type": "Electronics",
+    "product_id": "E010",
+    "name": "Wireless Mouse",
+    "price": 1299.0,
+    "quantity": 40,
+    "warranty_years": 1,
+    "brand": "ClickPro"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G001",
+    "name": "Milk",
+    "price": 120.0,
+    "quantity": 20,
+    "expiry_date": "2025-06-01"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G002",
+    "name": "Bread Loaf",
+    "price": 150.0,
+    "quantity": 30,
+    "expiry_date": "2025-05-20"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G003",
+    "name": "Eggs (12 pcs)",
+    "price": 200.0,
+    "quantity": 50,
+    "expiry_date": "2025-05-25"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G004",
+    "name": "Rice (5kg)",
+    "price": 450.0,
+    "quantity": 40,
+    "expiry_date": "2026-01-01"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G005",
+    "name": "Olive Oil (1L)",
+    "price": 899.0,
+    "quantity": 25,
+    "expiry_date": "2026-03-15"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G006",
+    "name": "Cheddar Cheese",
+    "price": 499.0,
+    "quantity": 15,
+    "expiry_date": "2025-06-10"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G007",
+    "name": "Butter (250g)",
+    "price": 299.0,
+    "quantity": 20,
+    "expiry_date": "2025-06-05"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G008",
+    "name": "Tomato Paste",
+    "price": 180.0,
+    "quantity": 35,
+    "expiry_date": "2026-02-20"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G009",
+    "name": "Sugar (2kg)",
+    "price": 220.0,
+    "quantity": 30,
+    "expiry_date": "2027-01-01"
+  },
+  {
+    "type": "Grocery",
+    "product_id": "G010",
+    "name": "Tea Leaves (500g)",
+    "price": 350.0,
+    "quantity": 45,
+    "expiry_date": "2026-08-30"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C001",
+    "name": "T-Shirt",
+    "price": 799.0,
+    "quantity": 50,
+    "size": "M",
+    "material": "Cotton"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C002",
+    "name": "Jeans",
+    "price": 1599.0,
+    "quantity": 40,
+    "size": "L",
+    "material": "Denim"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C003",
+    "name": "Hoodie",
+    "price": 1299.0,
+    "quantity": 30,
+    "size": "XL",
+    "material": "Fleece"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C004",
+    "name": "Jacket",
+    "price": 2499.0,
+    "quantity": 20,
+    "size": "L",
+    "material": "Leather"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C005",
+    "name": "Sneakers",
+    "price": 3499.0,
+    "quantity": 25,
+    "size": "42",
+    "material": "Canvas"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C006",
+    "name": "Dress Shirt",
+    "price": 999.0,
+    "quantity": 35,
+    "size": "M",
+    "material": "Polyester"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C007",
+    "name": "Skirt",
+    "price": 899.0,
+    "quantity": 30,
+    "size": "S",
+    "material": "Cotton"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C008",
+    "name": "Sweater",
+    "price": 1199.0,
+    "quantity": 20,
+    "size": "M",
+    "material": "Wool"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C009",
+    "name": "Shorts",
+    "price": 699.0,
+    "quantity": 45,
+    "size": "L",
+    "material": "Linen"
+  },
+  {
+    "type": "Clothing",
+    "product_id": "C010",
+    "name": "Cap",
+    "price": 399.0,
+    "quantity": 60,
+    "size": "One Size",
+    "material": "Cotton"
+  }
+]
