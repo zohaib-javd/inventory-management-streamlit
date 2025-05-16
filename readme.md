@@ -81,7 +81,7 @@ An interactive **Inventory Management System** built using **Python** and **Stre
 
 1. **Clone the repository:**
 
-   ```bash
+```bash
    git clone https://github.com/your-username/inventory-management-streamlit.git
    cd inventory-management-streamlit
 ````
